@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "storeName": "RAPS-SELL",
+    "tagline": "Marketplace Jual Beli Akun Mobile Legends & Free Fire Sultan #1 RAPS-SELL",
+    "logoUrl": "https://files.catbox.moe/ld4xcc.png",
+    "heroBannerUrl": "https://files.catbox.moe/ld4xcc.png",
+    "telegramUsername": "juraganrapspt",
+    "whatsappNumber": "",
+    "qrisImageUrl": "https://files.catbox.moe/ld4xcc.png",
+    "qrisNmid": "ID1020304050607",
+    "footerText": "",
+    "noticeText": "",
+    "flashSaleEndTime": "2026-08-10T23:59:59.000Z",
+    "adminPin": "112233"
+  },
+  "banners": [],
+  "accounts": [],
+  "statistics": {
+    "totalAccounts": 0,
+    "readyAccounts": 8,
+    "bookedAccounts": 1,
+    "soldAccounts": 1,
+    "totalViews": 23793189,
+    "lastUpdated": "2026-08-04T08:45:46.340Z"
+  }
+}
